@@ -1,1 +1,1 @@
-# pacman-agent
+# pacman-agent by Danny and Stefan
